@@ -11,7 +11,7 @@ The Constitution of Japan
 
 ## 目次
 
-- [前文]()
+- [前文](/article.md#%E5%89%8D%E6%96%87)
 - [第一章]()
 - [第三章]()
 - [第四章]()
